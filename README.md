@@ -1,1 +1,7 @@
-# PROYECTO-ORISA
+- **Ante cada actualización subir el archivo mas reciente.**
+- Avisar antes de comenzar a trabajar con un archivo para NO reescribir, ni tener versiones distintas de un solo trabajo.
+- A la hora de subir un archivo cambiar el nombre por:
+• especificar como de que trata el archivo, explicitar su contenido.
+• A la hora de finalización del mismo, así pueden quedar backups del archivo y ante cualquier error poder volver a una versión estable.
+• Si la versión subida no es una versión finalizada o con demasiados error marcar como **ALPHA**, en el caso contrario como **BETA** o **B**
+Ejemplo: **LANDING_PAGE_BETA_09/06/25**
