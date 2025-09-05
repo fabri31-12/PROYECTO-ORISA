@@ -6,4 +6,6 @@
     • Si la versión subida no es una versión finalizada o con demasiados error marcar como **ALPHA**, en el caso contrario como **BETA** o **B**
       Ejemplo: **LANDING_PAGE_BETA_09/06/25**
 - Tambien se haran carpetas por cada materia con el fin de tener organizado cada parte del proyecto por su respectiva materia, de igual manera se deben respetar los nombres con los avances
-  
+
+
+  -prieba de comit
